@@ -1,0 +1,16 @@
+﻿FormatVersion: 7
+Name: "Clock 1"
+Script: "Clock"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  eb030536833c433e9a4eee6506fd196e:
+    Name: ""
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

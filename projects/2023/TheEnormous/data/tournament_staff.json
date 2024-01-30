@@ -1,0 +1,211 @@
+﻿[
+  {
+    "group": "Hosting & Organization",
+    "members": [
+      "Phreel",
+      "Hoaq"
+    ],
+    position: {
+      x: 320,
+      y: 32
+    }
+  },
+  {
+    "group": "Mappool & Quality Assurance",
+    "members": [
+      "Alvearia",
+      "Gordon",
+      "Mimiliaa",
+      "Nozuchi",
+      "Luminous Sky"
+    ],
+    position: {
+      x: 320,
+      y: 100
+    }
+  },
+  {
+    "group": "Mapping",
+    "members": [
+      "-jordan-",
+      "Aistre",
+      "ajmosca",
+      "Altai",
+      "Alvearia",
+      "Anxient",
+      "CallieCube",
+      "captin1",
+      "Cubby",
+      "Esutarosa",
+      "fergas",
+      "FrenZ",
+      "Gordon",
+      "GranDSenpai",
+      "GYGY",
+      "Himada",
+      "IsomirDiAngelo",
+      "ItsWinter",
+      "kowari",
+      "Krimek",
+      "Lako",
+      "LeCandy",
+      "lewski",
+      "lit120",
+      "Livia",
+      "Lokidoki",
+      "Mimiliaa",
+      "Nagabi",
+      "nanoya",
+      "Nao Tomori",
+      "NekoShabeta",
+      "Nozhomi",
+      "nyarvis",
+      "Okoratu",
+      "OliBomby",
+      "quantumvortex",
+      "Reiji Maigo",
+      "rollpan",
+      "Rtyzen",
+      "Ryuusei Aika",
+      "Seabird",
+      "Serenhaide",
+      "Shiraya Sayuki",
+      "SkyFlame",
+      "squirrelpascals",
+      "Vermasium",
+      "yaspo",
+      "Yugu",
+      "Yumerios",
+      "Zelq"
+    ],
+    position: {
+      x: 320,
+      y: 100
+    }
+  },
+  {
+    "group": "Playtesting",
+    "members": [
+      "dectopia",
+      "defii",
+      "Endura",
+      "eternum",
+      "Indicolite",
+      "khz",
+      "nanoya",
+      "plee2",
+      "[Sven]"
+    ],
+    position: {
+      x: 320,
+      y: 100
+    }
+  },
+  {
+    "group": "Music",
+    "members": [
+      "7_7",
+      "AZALI",
+      "celtix",
+      "Himada",
+      "Kagetora.",
+      "Krimek",
+      "MYUKKE.",
+      "NormalM",
+      "Raytoly",
+      "Shiraya Sayuki",
+      "takehirotei",
+      "tn-shi",
+      "Xyris"
+    ]
+  },
+  {
+    "group": "Referee",
+    "members": [
+      "affirmedcheese",
+      "Aidown",
+      "AnjoK",
+      "Dragoncurve",
+      "Peti",
+      "Phreel",
+      "raven_waffles",
+      "real cute",
+      "rock-on",
+      "rom btw",
+      "Satxri",
+      "ShiruoX",
+      "TheHunter1"
+    ],
+    position: {
+      x: 320,
+      y: 100
+    }
+  },
+  {
+    "group": "Storyboarding",
+    "members": [
+      "Himada",
+      "Ningguang"
+    ],
+    position: {
+      x: 320,
+      y: 100
+    }
+  },
+  {
+    "group": "Design Art & Website",
+    "members": [
+      "Hoaq",
+      "Len_licht",
+      "roansong",
+      "ShadeCegLgMn",
+      "Try-Z",
+      "Yumeyo"
+    ],
+    position: {
+      x: 320,
+      y: 100
+    }
+  },
+  {
+    "group": "Commentary & Streaming",
+    "members": [
+      "- Juno -",
+      "affirmedcheese",
+      "cavoe",
+      "D I O",
+      "ExiaXD",
+      "Hoaq",
+      "I-Flame",
+      "Knightcakes",
+      "Luminous Sky",
+      "Peti",
+      "Phreel",
+      "SadShiba",
+      "Subaru_Arima",
+      "thogg",
+      "Tycani"
+    ],
+    position: {
+      x: 320,
+      y: 100
+    }
+  },
+  {
+    "group": "Special thanks",
+    "members": [
+      "Serafeim & Hollandaise Enjoyer (The AlphaTec Team)",
+      "chiv",
+      "FlasTEH",
+      "Mahmood",
+      "Mizeree",
+      "DarWihn",
+      "gecseboti",
+      "ninerik"
+    ],
+    position: {
+      x: 320,
+      y: 100
+    }
+  }
+]

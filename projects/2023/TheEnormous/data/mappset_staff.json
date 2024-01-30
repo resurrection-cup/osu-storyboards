@@ -1,0 +1,49 @@
+﻿[
+  {
+    "group": "Composer",
+    "members": [
+      "Kagetora."
+    ],
+    "position": {
+      "x": 320,
+      "y": 100
+    }
+  },
+  {
+    "group": "Mapper",
+    "members": [
+      "Ryuusei Aika"
+    ],
+    "position": {
+      "x": 320,
+      "y": 100
+    }
+  },
+  {
+    "group": "Hitsounder",
+    "members": [
+      "TtmnZk"
+    ],
+    "position": {
+      "x": 320,
+      "y": 100
+    }
+  },
+  {
+    "group": "Storyboarder",
+    "members": [
+      "Ningguang"
+    ]
+  },
+  {
+    "group": "Artist",
+    "members": [
+      "Mimiliaa",
+      "Yumeyo"
+    ],
+    "position": {
+      "x": 320,
+      "y": 100
+    }
+  }
+]

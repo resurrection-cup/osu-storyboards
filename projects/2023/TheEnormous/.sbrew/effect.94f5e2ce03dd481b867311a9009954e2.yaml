@@ -1,0 +1,66 @@
+﻿FormatVersion: 7
+Name: "Transitions 1"
+Script: "Transitions"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  8578dd1a63284984968432904245086e:
+    Name: "rotating_square_2"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  1323b8c1088c451b996c5dd224e667a0:
+    Name: "rectangle_split"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  26eb701e434c4ccea974fc72fe9ba232:
+    Name: "rotating_square"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  0b5b524ffab34c5e8d73d0b284bb55fe:
+    Name: "split_scale_close_leftright"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  fff6c470a9bf44f693b7d69dcba6ba42:
+    Name: "split_scale_close_updown"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  6a0517e9a4ce4375ace4b43a9769bd3c:
+    Name: "interlaced_diagonal_close"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  53ecd9498b54495d8b971d9a6645f7b8:
+    Name: "diagonal_close"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  6f5ae0c89bb4471fb34b071711abae43:
+    Name: "black_close"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  937951b64562471f928fa5c2fa2bd8b1:
+    Name: "split_scale_close_horizontal"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  d75cbb2848e84fdfa34fe4bde67b9c66:
+    Name: "small_diagonal_split_close"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  a7b3f74db5334f3084fd718803e169f4:
+    Name: "flash"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

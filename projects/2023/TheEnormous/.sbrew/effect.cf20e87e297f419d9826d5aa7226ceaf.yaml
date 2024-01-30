@@ -1,0 +1,56 @@
+﻿FormatVersion: 7
+Name: "Backgrounds 1"
+Script: "Backgrounds"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  109cd43af4c7456ca2dfabbfb07be1f0:
+    Name: "introduction"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  c49aa5bd48f444898dccc11bf1c41c8e:
+    Name: "first_glowing_bump"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  5267bbc5d4624474b330a579e00fe939:
+    Name: "last_section"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  a5a7a34db3604401898ffd35178b1ac7:
+    Name: "tournament_credits"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  cdae62b583184567b969ae6e45d06161:
+    Name: "build_up"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  4addb5718251476593aeb1c2c0525051:
+    Name: "break"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  5f3779a44bb94c68949afbfcac24d64a:
+    Name: "lead_melody"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  045408a8d1a94654bde30830c92ea8a7:
+    Name: "a"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  946b92e44c8945d89692a6aab0f7c47e:
+    Name: "b"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
